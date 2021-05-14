@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'rubocop', require: false
 gem 'faker' 
 gem 'hamlit'
+gem 'devise'
 gem 'annotate'
 gem 'better_errors'
 gem 'binding_of_caller'
